@@ -1,12 +1,14 @@
-# CRIANDO UM GERADOR DE MEMES COM DOCKER
+# Criando um gerador de memes com DOCKER e GraphicsMagick
 
 Configurações basicas para inicialização de container docker para execução dos codigos JS
+
+Execução e configuração do codigo foi realizado durante as aulas de preparação para a Semana JS Expert
 
 ## Dependences
 
 - [Meme-maker](https://www.npmjs.com/package/@erickwendel/meme-maker)
 
-## Dev dependencies
+## Dev dependences
 
 - [Nodemon](https://www.npmjs.com/package/nodemon)
 
