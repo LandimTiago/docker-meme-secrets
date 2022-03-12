@@ -1,4 +1,4 @@
-# Criando um gerador de memes com DOCKER e GraphicsMagick
+# Criando um gerador de memes com Docker e JavaScript - Pré #SemanaJSExpert
 
 Configurações basicas para inicialização de container docker para execução dos codigos JS
 
